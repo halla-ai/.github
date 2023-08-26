@@ -4,7 +4,6 @@
 [![course-img]][course-url]
 [![lecture-img]][lecture-url]
 [![research-img]][research-url]
-[![linkedin-img]][linkedin-url]
 
 [home-img]: https://img.shields.io/badge/home-entelecheia.me-blue
 [home-url]: https://entelecheia.me
@@ -14,10 +13,6 @@
 [lecture-url]: https://lecture.entelecheia.ai
 [research-img]: https://img.shields.io/badge/research-entelecheia.ai-blue
 [research-url]: https://research.entelecheia.ai
-[linkedin-img]: https://img.shields.io/badge/LinkedIn-blue?logo=linkedin
-[linkedin-url]: https://www.linkedin.com/in/entelecheia/
-[last-commit-img]: https://img.shields.io/github/last-commit/entelecheia/lecture?label=last%20update
-[last-commit-url]: https://github.com/entelecheia/lecture
 
 Lecture notes can be found at the below sites.
 
