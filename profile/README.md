@@ -1,10 +1,10 @@
 # Cheju Halla University Artificial Intelligence Engineering 
 
+[![halla-img]][halla-url]
 [![home-img]][home-url]
 [![course-img]][course-url]
 [![lecture-img]][lecture-url]
 [![research-img]][research-url]
-[![halla-img]][halla-url]
 
 [halla-img]: https://img.shields.io/badge/CHU-halla.ai-blue
 [halla-url]: https://halla.ai
