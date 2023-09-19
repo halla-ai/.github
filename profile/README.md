@@ -4,7 +4,10 @@
 [![course-img]][course-url]
 [![lecture-img]][lecture-url]
 [![research-img]][research-url]
+[![halla-img]][halla-url]
 
+[halla-img]: https://img.shields.io/badge/CHU-halla.ai-blue
+[halla-url]: https://halla.ai
 [home-img]: https://img.shields.io/badge/home-entelecheia.me-blue
 [home-url]: https://entelecheia.me
 [course-img]: https://img.shields.io/badge/course-entelecheia.ai-blue
