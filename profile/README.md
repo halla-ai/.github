@@ -1,7 +1,6 @@
 # Cheju Halla University Artificial Intelligence Engineering 
 
 [![halla-img]][halla-url]
-[![home-img]][home-url]
 [![course-img]][course-url]
 [![lecture-img]][lecture-url]
 [![research-img]][research-url]
@@ -20,7 +19,3 @@
 [research-img]: https://img.shields.io/badge/research-entelecheia.ai-blue
 [research-url]: https://research.entelecheia.ai
 
-Lecture notes can be found at the below sites.
-
-- [Courses](https://course.entelecheia.ai)
-- [Lecture Notes](https://lecture.entelecheia.ai)
