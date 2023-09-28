@@ -5,7 +5,10 @@
 [![course-img]][course-url]
 [![lecture-img]][lecture-url]
 [![research-img]][research-url]
+[![playground-img]][playground-url]
 
+[playground-img]: https://img.shields.io/badge/playground-app_launcher-blue
+[playground-url]: https://entelecheia.cloudflareaccess.com
 [halla-img]: https://img.shields.io/badge/CHU-halla.ai-blue
 [halla-url]: https://halla.ai
 [home-img]: https://img.shields.io/badge/home-entelecheia.me-blue
