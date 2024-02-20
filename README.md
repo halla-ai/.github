@@ -1,4 +1,4 @@
-# Cheju Halla University Artificial Intelligence Engineering 
+# Artificial Intelligence, Cheju Halla University
 
 [![home-img]][home-url]
 [![course-img]][course-url]
