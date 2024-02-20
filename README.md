@@ -1,4 +1,4 @@
-# Artificial Intelligence, Cheju Halla University
+# Artificial Intelligence - Cheju Halla University
 
 [![home-img]][home-url]
 [![course-img]][course-url]
