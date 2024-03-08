@@ -19,4 +19,4 @@
 [research-img]: https://img.shields.io/badge/research-entelecheia.ai-blue
 [research-url]: https://research.entelecheia.ai
 
-**제주한라대학교 인공지능학과**
+**제주한라대학교 인공지능공학과**
