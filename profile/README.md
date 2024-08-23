@@ -19,4 +19,4 @@
 [research-img]: https://img.shields.io/badge/research-halla.ai-blue
 [research-url]: https://research.halla.ai
 
-[<img width="100%" alt="chu-aie" src="https://github.com/chu-aie/.github/assets/1177283/f7423a43-9535-4fd7-a2bc-58e0aeb70269">][halla-url]
+[<img width="100%" alt="chu-aie" src="https://github.com/halla-ai/.github/assets/1177283/f7423a43-9535-4fd7-a2bc-58e0aeb70269">][halla-url]
