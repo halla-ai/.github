@@ -19,4 +19,10 @@
 [research-img]: https://img.shields.io/badge/research-halla.ai-blue
 [research-url]: https://research.halla.ai
 
+
+## Fall 2024 Courses
+
+- [Introduction to NLP and LLMs](https://nlp2024.halla.ai)
+- [Advanced NLP and LLMs](https://deepnlp2024.halla.ai)
+
 [<img width="100%" alt="chu-aie" src="https://github.com/halla-ai/.github/assets/1177283/f7423a43-9535-4fd7-a2bc-58e0aeb70269">][halla-url]
