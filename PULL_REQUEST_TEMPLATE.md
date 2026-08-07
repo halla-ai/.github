@@ -8,4 +8,4 @@
 
 ## Verification
 
-<!-- Commands run and results: CI gate, tests, manual check -->
+<!-- Verify each acceptance criterion of the spec: commands run and results (CI gate, tests, manual check) -->
